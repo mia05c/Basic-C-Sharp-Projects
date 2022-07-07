@@ -1,0 +1,7 @@
+C:\Users\jelly\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe.config
+C:\Users\jelly\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.pdb
+C:\Users\jelly\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csprojAssemblyReference.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.pdb
