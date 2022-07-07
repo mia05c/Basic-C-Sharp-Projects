@@ -1,0 +1,6 @@
+C:\Users\jelly\Desktop\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\jelly\Desktop\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\jelly\Desktop\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
