@@ -1,0 +1,7 @@
+C:\Users\jelly\Desktop\Basic_C#_Programs\Math Operation\Math Operation\obj\Debug\Math Operation.csprojAssemblyReference.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\Math Operation\Math Operation\obj\Debug\Math Operation.csproj.CoreCompileInputs.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\Math Operation\Math Operation\bin\Debug\Math Operation.exe.config
+C:\Users\jelly\Desktop\Basic_C#_Programs\Math Operation\Math Operation\bin\Debug\Math Operation.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\Math Operation\Math Operation\bin\Debug\Math Operation.pdb
+C:\Users\jelly\Desktop\Basic_C#_Programs\Math Operation\Math Operation\obj\Debug\Math Operation.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\Math Operation\Math Operation\obj\Debug\Math Operation.pdb
