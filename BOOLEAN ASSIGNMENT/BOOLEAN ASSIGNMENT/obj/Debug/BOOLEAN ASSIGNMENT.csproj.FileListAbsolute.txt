@@ -1,0 +1,7 @@
+C:\Users\jelly\Desktop\Basic_C#_Programs\BOOLEAN ASSIGNMENT\BOOLEAN ASSIGNMENT\bin\Debug\BOOLEAN ASSIGNMENT.exe.config
+C:\Users\jelly\Desktop\Basic_C#_Programs\BOOLEAN ASSIGNMENT\BOOLEAN ASSIGNMENT\bin\Debug\BOOLEAN ASSIGNMENT.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\BOOLEAN ASSIGNMENT\BOOLEAN ASSIGNMENT\bin\Debug\BOOLEAN ASSIGNMENT.pdb
+C:\Users\jelly\Desktop\Basic_C#_Programs\BOOLEAN ASSIGNMENT\BOOLEAN ASSIGNMENT\obj\Debug\BOOLEAN ASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\BOOLEAN ASSIGNMENT\BOOLEAN ASSIGNMENT\obj\Debug\BOOLEAN ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\BOOLEAN ASSIGNMENT\BOOLEAN ASSIGNMENT\obj\Debug\BOOLEAN ASSIGNMENT.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\BOOLEAN ASSIGNMENT\BOOLEAN ASSIGNMENT\obj\Debug\BOOLEAN ASSIGNMENT.pdb
