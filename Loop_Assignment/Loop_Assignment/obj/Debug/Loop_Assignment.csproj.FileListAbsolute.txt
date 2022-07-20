@@ -1,0 +1,7 @@
+C:\Users\jelly\Desktop\Basic_C#_Programs\Loop_Assignment\Loop_Assignment\bin\Debug\Loop_Assignment.exe.config
+C:\Users\jelly\Desktop\Basic_C#_Programs\Loop_Assignment\Loop_Assignment\bin\Debug\Loop_Assignment.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\Loop_Assignment\Loop_Assignment\bin\Debug\Loop_Assignment.pdb
+C:\Users\jelly\Desktop\Basic_C#_Programs\Loop_Assignment\Loop_Assignment\obj\Debug\Loop_Assignment.csprojAssemblyReference.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\Loop_Assignment\Loop_Assignment\obj\Debug\Loop_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\Loop_Assignment\Loop_Assignment\obj\Debug\Loop_Assignment.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\Loop_Assignment\Loop_Assignment\obj\Debug\Loop_Assignment.pdb
