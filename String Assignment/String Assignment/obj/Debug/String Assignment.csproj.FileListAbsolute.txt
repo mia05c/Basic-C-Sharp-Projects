@@ -1,0 +1,7 @@
+C:\Users\jelly\Desktop\Basic_C#_Programs\String Assignment\String Assignment\bin\Debug\String Assignment.exe.config
+C:\Users\jelly\Desktop\Basic_C#_Programs\String Assignment\String Assignment\bin\Debug\String Assignment.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\String Assignment\String Assignment\bin\Debug\String Assignment.pdb
+C:\Users\jelly\Desktop\Basic_C#_Programs\String Assignment\String Assignment\obj\Debug\String Assignment.csprojAssemblyReference.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\String Assignment\String Assignment\obj\Debug\String Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\String Assignment\String Assignment\obj\Debug\String Assignment.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\String Assignment\String Assignment\obj\Debug\String Assignment.pdb
