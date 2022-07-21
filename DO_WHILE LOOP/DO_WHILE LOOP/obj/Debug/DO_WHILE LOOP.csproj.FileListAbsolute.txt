@@ -1,0 +1,7 @@
+C:\Users\jelly\Desktop\Basic_C#_Programs\DO_WHILE LOOP\DO_WHILE LOOP\obj\Debug\DO_WHILE LOOP.csprojAssemblyReference.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\DO_WHILE LOOP\DO_WHILE LOOP\obj\Debug\DO_WHILE LOOP.csproj.CoreCompileInputs.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\DO_WHILE LOOP\DO_WHILE LOOP\bin\Debug\DO_WHILE LOOP.exe.config
+C:\Users\jelly\Desktop\Basic_C#_Programs\DO_WHILE LOOP\DO_WHILE LOOP\bin\Debug\DO_WHILE LOOP.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\DO_WHILE LOOP\DO_WHILE LOOP\bin\Debug\DO_WHILE LOOP.pdb
+C:\Users\jelly\Desktop\Basic_C#_Programs\DO_WHILE LOOP\DO_WHILE LOOP\obj\Debug\DO_WHILE LOOP.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\DO_WHILE LOOP\DO_WHILE LOOP\obj\Debug\DO_WHILE LOOP.pdb
