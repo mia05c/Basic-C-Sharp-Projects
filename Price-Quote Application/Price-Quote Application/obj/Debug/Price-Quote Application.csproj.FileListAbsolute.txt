@@ -1,0 +1,7 @@
+C:\Users\jelly\Desktop\Basic_C#_Programs\Price-Quote Application\Price-Quote Application\bin\Debug\Price-Quote Application.exe.config
+C:\Users\jelly\Desktop\Basic_C#_Programs\Price-Quote Application\Price-Quote Application\bin\Debug\Price-Quote Application.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\Price-Quote Application\Price-Quote Application\bin\Debug\Price-Quote Application.pdb
+C:\Users\jelly\Desktop\Basic_C#_Programs\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.csprojAssemblyReference.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.csproj.CoreCompileInputs.cache
+C:\Users\jelly\Desktop\Basic_C#_Programs\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.exe
+C:\Users\jelly\Desktop\Basic_C#_Programs\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.pdb
